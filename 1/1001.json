@@ -1,16 +1,17 @@
 {
-  "name": "LOLO #1001",
-  "symbol": "$LOLO",
-  "description": "Part of the LOLO collection",
-  "image": "https://grizly.club/uploads/posts/2022-12/1670882757_grizly-club-p-512-na-512-png-8.jpg",
+  "name": "TestCampaignos #1001",
+  "symbol": "$TESTOS",
+  "description": "A special NFT from the TestCampaignos collection",
+  "image": "https://images.unsplash.com/photo-1547721064-da6cfb341d50?auto=format&fit=crop&w=512&h=512",
   "attributes": [
-    { "trait_type": "Rarity", "value": "Legendary" },
-    { "trait_type": "Background", "value": "Metallic" }
+    { "trait_type": "Generation", "value": "Gen 1" },
+    { "trait_type": "Background", "value": "Neon Grid" },
+    { "trait_type": "Power Level", "value": "Over 9000" }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://grizly.club/uploads/posts/2022-12/1670882757_grizly-club-p-512-na-512-png-8.jpg",
+        "uri": "https://images.unsplash.com/photo-1547721064-da6cfb341d50?auto=format&fit=crop&w=512&h=512",
         "type": "image/jpeg"
       }
     ],
