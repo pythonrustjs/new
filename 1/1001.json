@@ -1,0 +1,19 @@
+{
+  "name": "LOLO #1001",
+  "symbol": "$LOLO",
+  "description": "Part of the LOLO collection",
+  "image": "https://grizly.club/uploads/posts/2022-12/1670882757_grizly-club-p-512-na-512-png-8.jpg",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Background", "value": "Metallic" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://grizly.club/uploads/posts/2022-12/1670882757_grizly-club-p-512-na-512-png-8.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
