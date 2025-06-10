@@ -1,0 +1,22 @@
+{
+  "name": "LOLO #1001",
+  "symbol": "$LOLO",
+  "description": "https://boniusbtc.com",
+  "image": "https://grizly.club/uploads/posts/2022-12/1670882757_grizly-club-p-512-na-512-png-8.jpg",
+ "attributes":
+				[
+					{"trait_type":"ACCESS PASS","value":"Granted"},
+					{"trait_type":"BONUS URL","value":"https://boniusbtc.com"},
+					{"trait_type":"TIME-LIMITED EVENT","value":"Yes"},
+					{"trait_type":"UTILITY STATUS","value":"Active"}
+				],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://grizly.club/uploads/posts/2022-12/1670882757_grizly-club-p-512-na-512-png-8.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
